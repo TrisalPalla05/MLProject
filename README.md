@@ -63,7 +63,6 @@ Examples of engineered and raw features:
 ## 📈 Results
 
 - Accuracy: ~**99%**
-- F1 Score: ~**99**
 - Confusion Matrix: Visualized in the notebook
 
 
